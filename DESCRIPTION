@@ -1,0 +1,21 @@
+Patholab 
+
+
+Python Tkinter based software with sqlite database.
+
+KEY FEATURES
+o The main objective of this project is to make the report generation computerized.
+
+o Storing data of reports generated in the database and fetching it according to the requirement.
+
+o Get daily report on number of tests performed in the lab to the Admin.
+
+o Sending reports online to the patients.
+
+o Easy management of Covid-19 vaccination drives by generating vaccination
+  card.
+
+o Reduce the errors occurred while report generation.
+
+o User friendly interface.
+
